@@ -1,0 +1,148 @@
+body{
+  text-align: center;
+  font-family: 'Mali', cursive;
+  margin:0;
+  background-color: #F0ECE3;
+}
+
+h1{
+  font-size: 3rem;
+  color: #596E79;
+  margin:0;
+  padding-top: 25px;
+}
+
+h2{
+  font-size: 2rem;
+  color: #596E79;
+  padding-top: 25px;
+  margin-top: 0;
+
+}
+
+.boris-portrait{
+width: 20%;
+border-radius: 30%;
+margin: 20px;
+
+}
+
+
+.top-container{
+  width: 50%;
+  background-color: #F0ECE3;
+  margin: auto;
+}
+
+.topcontainerparagraph{
+  text-align: left;
+
+    line-height: 2;
+    color: #596E79;
+}
+
+.www-image{
+  width: 15%;
+  float: left;
+  margin-left: 40px;
+  margin-right: 20px;
+}
+
+.middle-container{
+  width: 50%;
+
+  background-color: #C7B198;
+  margin: auto;
+}
+
+.middlecontainerparagraph{
+  text-align: left;
+    line-height: 2;
+    color: #596E79;
+}
+
+.factory-img{
+  width: 20%;
+  float: right;
+  margin-left: 40px;
+  margin-right: 20px;
+}
+
+.seo-img1{
+  width: 13%;
+  transform: rotate(20deg);
+}
+
+.seo-img2{
+  width: 16%;
+  transform: rotate(300deg);
+
+}
+
+.myskillscontainer{
+  width: 50%;
+  background-color: #F0ECE3;
+  margin: auto;
+}
+
+.myskillsparagraph{
+  text-align: left;
+
+    line-height: 2;
+    color: #596E79;
+}
+.python{
+  width: 17%;
+float: left;
+  transform: rotate(20deg);
+
+}
+
+.swift{
+  width: 13%;
+  float: left;
+  transform: rotate(-20deg);
+  margin-right: 20px;
+}
+
+.bottom-container{
+  background-color:#C7B198;
+  padding-top: 30px;
+}
+
+.link{
+  margin: 10px;
+  color: #F0ECE3;
+}
+
+.copyright{
+  color: #F0ECE3;
+  font-size: 10px;
+}
+
+.btn {
+  background: #F0ECE3;
+  background-image: -webkit-linear-gradient(top, #F0ECE3, #F0ECE3);
+  background-image: -moz-linear-gradient(top, #F0ECE3, #F0ECE3);
+  background-image: -ms-linear-gradient(top, #F0ECE3, #F0ECE3);
+  background-image: -o-linear-gradient(top, #F0ECE3, #F0ECE3);
+  background-image: linear-gradient(to bottom, #F0ECE3, #F0ECE3);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #C7B198;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #C7B198;
+  background-image: -webkit-linear-gradient(top, #C7B198, #F0ECE3);
+  background-image: -moz-linear-gradient(top, #C7B198, #F0ECE3);
+  background-image: -ms-linear-gradient(top, #C7B198, #F0ECE3);
+  background-image: -o-linear-gradient(top, #C7B198, #F0ECE3);
+  background-image: linear-gradient(to bottom, #C7B198, #F0ECE3);
+  text-decoration: none;
+}
